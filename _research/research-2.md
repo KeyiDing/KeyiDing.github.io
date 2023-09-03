@@ -1,5 +1,5 @@
 ---
-title: "Large Scale Stellar Parameter Inference with Photometry"
+title: "Large Scale Photometric Stellar Parameters Inference"
 excerpt: "Stellar photospheric and fundamental parameters inference by fitting multi-wavelength photometry, astrometry, and 3-D dustmap to theoretical isochrones<br/><img src='/images/M67_feh_uv.png'>"
 collection: research
 ---
