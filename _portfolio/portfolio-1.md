@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "PFS M31 Target Selection"
+excerpt: "Machine Learning Techniques to Distinguish M-Giant Stars from M-Dwarf Stars for the PFS M31 Survey Target Selection<br/><img src='/images/mastar_apogee_logg.png'>"
 collection: portfolio
 ---
 
