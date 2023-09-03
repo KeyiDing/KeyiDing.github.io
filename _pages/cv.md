@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- Education
+Education
 ======
 * B.S. in Physics and Computer Science, Johns Hopkins University, 2024
 * High School Diploma, The Experimental High School attched to Beijing Normal University, 2020
@@ -26,7 +26,7 @@ Professional Appointment
   
 * Instrument Support Intern
   * Space Telescope Science Institute (STScI)
-  * Supervisor: Dr. Louis-Gregor Strolger -->
+  * Supervisor: Dr. Louis-Gregor Strolger
 
 
 <embed src="{{ site.baseurl }}/files/Keyi_CV.pdf" width="600" height="700" type='application/pdf'>
