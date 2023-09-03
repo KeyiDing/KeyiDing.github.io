@@ -29,4 +29,4 @@ Professional Appointment
   * Supervisor: Dr. Louis-Gregor Strolger
 
 
-Link to my CV in pdf version.
+<embed src="{{ site.baseurl }}/files/Keyi_CV.pdf" width="600" height="700" type='application/pdf'>
