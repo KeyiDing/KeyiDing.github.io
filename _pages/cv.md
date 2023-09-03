@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics and Computer Science, Johns Hopkins University, 2024
+* B.S. in Physics and Computer Science, Johns Hopkins University, 2024 (expected)
 * High School Diploma, The Experimental High School attched to Beijing Normal University, 2020
 
 Professional Appointments
@@ -28,7 +28,13 @@ Professional Appointments
   * Space Telescope Science Institute (STScI)
   * Supervisor: Dr. Louis-Gregor Strolger
 
-</br>
-</br>
-</br>
+Teaching
+======
+* AS.171.107 General Physics for Physical Science Majors (AL) I, Fall 2023
+  * Learning Assistant, with Prof. Rosemary Wyse
+* AS.171.108 General Physics for Physical Science Majors (AL) II, Spring 2023
+  * Learning Assistant, with Prof. Petar Maksimovic
+* AS.171.101 General Physics: Physical Science Major I, Fall 2022
+  * Learning Assistant, with Prof. Nadia Zakamska
+
 <embed src="{{ site.baseurl }}/files/Keyi_CV.pdf" width="600" height="700" type='application/pdf'>
