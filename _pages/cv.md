@@ -14,7 +14,7 @@ Education
 * B.S. in Physics and Computer Science, Johns Hopkins University, 2024
 * High School Diploma, The Experimental High School attched to Beijing Normal University, 2020
 
-Professional Appointment
+Professional Appointments
 ======
 * Undergraduate Research Assistant
   * Johns Hopkins University/Subaru PFS Galactic Archaeology Working Group
