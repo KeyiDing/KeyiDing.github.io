@@ -13,4 +13,4 @@ I am currently a senior undergraduate student at the [Johns Hopkins University](
 <figure align="center" width="50%">
 <img src='/images/IMG_5933.JPG'>
 <figcaption>Telescope on the roof of the JHU Bloomberg Center</figcaption>
-</p>
+</figure>
