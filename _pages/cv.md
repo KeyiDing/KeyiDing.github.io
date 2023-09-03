@@ -11,49 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics and Computer Science, Johns Hopkins University, 2024
+* High School Diploma, The Experimental High School attched to Beijing Normal University, 2020
 
-Work experience
+Professional Appointment
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Undergraduate Research Assistant
+  * Johns Hopkins University/Subaru PFS Galactic Archaeology Working Group
+  * Supervisor: Prof. Rosemary F.G. Wyse
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Undergraduate Research Assistant
+  * Johns Hopkins University
+  * Supervisor: Prof. Kevin C. Schlaufman
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Instrument Support Intern
+  * Space Telescope Science Institute (STScI)
+  * Supervisor: Dr. Louis-Gregor Strolger
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+Link to my CV in pdf version.
