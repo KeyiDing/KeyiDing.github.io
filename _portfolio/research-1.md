@@ -17,12 +17,15 @@ A potential solution to this problem is narrow-band photometry. A key physical p
 
 In my research project, I use machine learning methods to improve the robustness of the target selection method. To model NB515's sensitivity to stellar parameters and chemical abundances, I use synthetic photometry of high-resolution spectra from the MaNGA Stellar Library (MaStar) (Yan et al. 2019). As shown in the color-color diagram, the high surface gravity dwarfs and low surface gravity giants are well-separated within a restricted color range.
 
-<figure style="width:50%; text-align: center;">
+<figure style="width:100%; text-align: center;">
 <img src='/images/mastar_apogee_logg.png'>
-<figcaption>Image credit: Komiyama et al. 2018</figcaption>
 </figure>
 
 
 I built a training dataset with synthetic colors of MaStar and adjusted the stellar population in the training set to match the expected stellar population in both M31 and foreground M31 fields. I used theoretical models of the Milky Way, such as the Besancon model (Czekaj et al. 2014) and the TRILEGAL model (Girardi et al. 2005), to simulate photometric surveys of the M31 fields and estimate the color, magnitude, chemical abundance, and kinematics of the foreground stars. The stellar population of M31 is modelled based on past photometric and spectroscopic surveys of M31, including The Pan-Andromeda Archaeological Survey (PandAS - McConnachie el al. 2018) and the Dark Energy Spectroscopic Survey (DESI - Dey et al. 2022). 
 
 I trained a neural network model with the input synthetic colors to predict the probability of a star being a giant. The model is tested with the Ursa Minor dwarf galaxy. According to the color-magnitude diagram, the model is able to select most of the red giant branch stars as member stars of Ursa Minor.
+
+<figure style="width:60%; text-align: center;">
+<img src='/images/uma.png'>
+</figure>
