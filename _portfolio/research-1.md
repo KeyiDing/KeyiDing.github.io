@@ -10,14 +10,16 @@ The Subaru Telescope Prime Focus Spectrograph (PFS) Collaboration is planning to
 
 A potential solution to this problem is narrow-band photometry. A key physical parameter that differentiates dwarf stars and giant stars is surface gravity, as dwarfs have higher surface gravity than giants. The PFS Collaboration intends to use the photometry of a narrow band filter, NB515, as an indicator of the stars' surface gravity. NB515 is a narrow-band filter on the Subaru Telescope sensitive to the MgH + Mgb absorption features around 515 nm, the strength of which is strongly dependent on surface gravity. Historically targets are selected based within a polygon on the color-color diagram of g-i vs NB515-g colors, but the polygon does not extend to the regime of the M-stars (Komiyama et al. 2018). Such selection method might be biased and thus cannot construct a complete chemical profile of M31.
 
-<figure style="width:50%; text-align: center;">
+<!-- <figure style="width:50%; text-align: center;">
 <img src='/images/hsc.png'>
 <figcaption>Image credit: Komiyama et al. 2018</figcaption>
-</figure>
+</figure> -->
 
 <p align="center" width="100%">
     <img width="50%" src="/images/hsc.png"> 
-    Image credit: Komiyama et al. 2018<br>
+     <caption>
+          Image credit: Komiyama et al. 2018
+      </caption>
 </p>
 
 In my research project, I use machine learning methods to improve the robustness of the target selection method. To model NB515's sensitivity to stellar parameters and chemical abundances, I use synthetic photometry of high-resolution spectra from the MaNGA Stellar Library (MaStar) (Yan et al. 2019). As shown in the color-color diagram, the high surface gravity dwarfs and low surface gravity giants are well-separated within a restricted color range.
