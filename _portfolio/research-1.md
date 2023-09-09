@@ -15,11 +15,11 @@ A potential solution to this problem is narrow-band photometry. A key physical p
 <figcaption>Image credit: Komiyama et al. 2018</figcaption>
 </figure> -->
 
-<p align="center" width="100%">
-    <img width="50%" src="/images/hsc.png"> 
-     <caption>
+<p align="center" width="50%">
+    <img width="100%" src="/images/hsc.png"> 
+     <figcaption>
           Image credit: Komiyama et al. 2018
-      </caption>
+      </figcaption>
 </p>
 
 In my research project, I use machine learning methods to improve the robustness of the target selection method. To model NB515's sensitivity to stellar parameters and chemical abundances, I use synthetic photometry of high-resolution spectra from the MaNGA Stellar Library (MaStar) (Yan et al. 2019). As shown in the color-color diagram, the high surface gravity dwarfs and low surface gravity giants are well-separated within a restricted color range.
