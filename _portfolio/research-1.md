@@ -15,8 +15,8 @@ A potential solution to this problem is narrow-band photometry. A key physical p
 <figcaption>Image credit: Komiyama et al. 2018</figcaption>
 </figure> -->
 
-<p align="center" width="50%">
-    <img width="100%" src="/images/hsc.png"> 
+<p align="center" width="100%">
+    <img width="70%" src="/images/hsc.png"> 
      <figcaption>
           Image credit: Komiyama et al. 2018
       </figcaption>
