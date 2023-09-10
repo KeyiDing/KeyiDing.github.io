@@ -19,13 +19,13 @@ We verified the precision of our [Fe/H] inference with 7 open clusters. Stars in
       </figcaption>
 </p>
 
-To verify the accuracy of inferred mass and radius, we compare our inferred masses and radii with the asteroseismic informed masses and radii from the Kepler Asteroseismic LEGACY Sample (Silva Aguirre et al. 2017). The mean percentage offset the masses is 4.0 \% and the mean percentage offset of the radii is 4.3 \%. Both the inferred radius and mass are consistent with the asteroseismic inferred radius and mass, with most offsets within the $3 \sigma$ confidence interval.
+To verify the accuracy of inferred mass and radius, we compare our inferred masses and radii with the asteroseismic informed masses and radii from the Kepler Asteroseismic LEGACY Sample (Silva Aguirre et al. 2017). The mean percentage offset the masses is 4.0% and the mean percentage offset of the radii is 4.3%. Both the inferred radius and mass are consistent with the asteroseismic inferred radius and mass, with most offsets within the $3 \sigma$ confidence interval.
 
 <p align="center" width="100%">
     <img width="100%" src="/images/Kepler_comparison.png"> 
      <figcaption>
-          Comparison of our inferred radius and mass with Kepler Asteroseismic LEGACY sample parameters. We plot the mean asteroseismic inferred radii/masses and errors from the 6 pipelines on the x-axis, and the Isochrones inferred radii/masses and the internal uncertainties on the y-axis. The mean percentage offset the masses is 4.0 \% and the mean percentage offset of the radii is 4.3 \%. Both the inferred radius and mass are consistent with the asteroseismic inferred radius and mass, with most offsets within the $3 \sigma$ confidence interval.
+          Comparison of our inferred radius and mass with Kepler Asteroseismic LEGACY sample parameters. We plot the mean asteroseismic inferred radii/masses and errors from the 6 pipelines on the x-axis, and the Isochrones inferred radii/masses and the internal uncertainties on the y-axis. The mean percentage offset the masses is 4.0% and the mean percentage offset of the radii is 4.3%. Both the inferred radius and mass are consistent with the asteroseismic inferred radius and mass, with most offsets within the $3 \sigma$ confidence interval.
       </figcaption>
 </p>
 
-The inference method will have wide applicability for Galactic and stellar archaeology in the era of the Vera C.\ Rubin Observatory's Legacy Survey of Space and Time (LSST).
+The inference method will have wide applicability for galactic and stellar archaeology in the era of the Vera C. Rubin Observatory's Legacy Survey of Space and Time (LSST).

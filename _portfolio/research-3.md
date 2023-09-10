@@ -1,6 +1,6 @@
 ---
 title: "Hubble Space Telescope (HST) Data Analysis and Software Tools"
-excerpt: "Tutorial Jupyter Notebooks for the HST Space Telescope Imaging Spectrograph (STIS)<br/><img src='/images/hst.jpg'>"
+excerpt: "Tutorial Jupyter Notebooks for the HST Space Telescope Imaging Spectrograph (STIS)<br/><img src='/images/calsits.png'>"
 collection: portfolio
 ---
 
