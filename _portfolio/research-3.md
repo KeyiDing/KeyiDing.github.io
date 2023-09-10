@@ -1,7 +1,7 @@
 ---
 title: "Hubble Space Telescope (HST) Data Analysis and Software Tools"
-excerpt: "Tutorial Jupyter Notebooks for the HST Space Telescope Imaging Spectrograph (STIS)<br/><img src='/images/calsits.png'>"
+excerpt: "Tutorial Jupyter Notebooks for the HST Space Telescope Imaging Spectrograph (STIS)<br/><img src='/images/calstis.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+We implement a set of tutorial Jupyter Notebooks for the HST Space Telescope Imaging Spectrograph (STIS) user community to help users learn to manipulate STIS data through an interactive, hands-on experience. STIS is a versatile imaging spectrograph installed on the Hubble Space Telescope (HST), covering a wide range of wavelengths from the near-infrared to the far-ultraviolet. These notebooks introduce entry-level and advanced users to the basic usage, reduction, and manipulation of STIS data in Python, such as viewing STIS spectra and images, calibrating STIS data through the calibration pipeline, and customizing reference files for STIS calibration. Furthermore, we present Jupyter Notebooks to address common questions from the HST help desk. In the notebooks, we introduce the STIS instrument's design, show STIS software tool usage, and demonstrate data analysis methods to use with STIS data in scientific research. To create these Jupyter Notebooks, we apply content from the STIS Instrument and Data Handbooks, document STIS data use cases and questions, and standardize the format in order to take advantage of the interactive nature of Jupyter Notebooks. The STIS Jupyter Notebooks are available to the user community in the STScI Notebooks repository found at https://www.stsci.edu/hst/instrumentation/stis/data-analysis-and-software-tools. 
