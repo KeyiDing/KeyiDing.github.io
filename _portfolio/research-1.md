@@ -22,7 +22,7 @@ A potential solution to this problem is narrow-band photometry. A key physical p
       </figcaption>
 </p>
 
-In my research project, I use machine learning methods to improve the robustness of the target selection method. To model NB515's sensitivity to stellar parameters and chemical abundances, I use synthetic photometry of high-resolution spectra from the MaNGA Stellar Library (MaStar) (Yan et al. 2019). As shown in the color-color diagram, the high surface gravity dwarfs and low surface gravity giants are well-separated within a restricted color range.
+I developed machine learning techniques to distinguish likely member stars of M31 - which are predominantly red giant stars - from foreground Milky Way contamination prior to fiber assignment and observation. Most fields to be targeted have been pre-imaged with Hyper Suprime Cam in both broad-band g and i filters and the gravity-sensitive narrow-band NB515 filter and our machine learning algorithm aims to find the separation between foreground dwarfs and target giants on the 2-color diagram.
 
 <!-- <figure style="width:100%; text-align: center;">
 <img src='/images/mastar_apogee_logg.png'>
@@ -32,7 +32,7 @@ In my research project, I use machine learning methods to improve the robustness
     <img width="100%" src="/images/mastar_apogee_logg.png"> 
 </p>
 
-I built a training dataset with synthetic colors of MaStar and adjusted the stellar population in the training set to match the expected stellar population in both M31 and foreground M31 fields. I used theoretical models of the Milky Way, such as the Besancon model (Czekaj et al. 2014) and the TRILEGAL model (Girardi et al. 2005), to simulate photometric surveys of the M31 fields and estimate the color, magnitude, chemical abundance, and kinematics of the foreground stars. The stellar population of M31 is modelled based on past photometric and spectroscopic surveys of M31, including The Pan-Andromeda Archaeological Survey (PandAS - McConnachie el al. 2018) and the Dark Energy Spectroscopic Survey (DESI - Dey et al. 2022). 
+I modeled the NB515 filter's sensitivity to stellar atmospheric parameters and chemical abundances through the creation of synthetic photometry of a wide range of spectral types from the large empirical MaNGA Stellar Library (MaStar), and constructed training sets with this synthetic photometry. To reduce the covariate shift in machine learning, I used theoretical models and existing observations to simulate observational data for fields centered on M31, to ensure our training data represent the expected stellar populations of both foreground and M31 member stars. The stellar population of M31 is modelled based on past photometric and spectroscopic surveys of M31, including The Pan-Andromeda Archaeological Survey (PandAS - McConnachie el al. 2018) and the Dark Energy Spectroscopic Survey (DESI - Dey et al. 2022). 
 
 I trained a neural network model with the input synthetic colors to predict the probability of a star being a giant. The model is tested with the Ursa Minor dwarf galaxy. According to the color-magnitude diagram, the model is able to select most of the red giant branch stars as member stars of Ursa Minor.
 
