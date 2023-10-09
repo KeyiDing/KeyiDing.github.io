@@ -37,4 +37,4 @@ Teaching
 * AS.171.101 General Physics: Physical Science Major I, Fall 2022
   * Learning Assistant, with Prof. Nadia Zakamska
 
-<embed src="{{ site.baseurl }}/files/Keyi_CV.pdf" width="600" height="700" type='application/pdf'>
+<embed src="{{ site.baseurl }}/files/Ding_CV.pdf" width="600" height="700" type='application/pdf'>
