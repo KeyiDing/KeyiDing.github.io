@@ -1,10 +1,10 @@
 ---
-title: "Large Scale Photometric Stellar Parameters Inference"
-excerpt: "Stellar photospheric and fundamental parameters inference by fitting multi-wavelength photometry, astrometry, and 3-D dustmap to theoretical isochrones<br/><img src='/images/M67_feh_uv.png'>"
+title: "Large Scale Photometric Stellar Parameter Inference"
+excerpt: "Stellar photospheric and fundamental parameter inference by fitting multi-wavelength photometry, astrometry, and 3-D dustmap to theoretical isochrones<br/><img src='/images/M67_feh_uv.png'>"
 collection: portfolio
 ---
 
-Precision stellar parameters inferences have historically relied on high-resolution spectroscopy. Despite the great precision of spectroscopic parameters inference, stellar spectroscopy suffers from several limitations including expensive hardware and restricted observation depth.
+Precision stellar parameter inferences have historically relied on high-resolution spectroscopy. Despite the great precision of spectroscopic parameters inference, stellar spectroscopy suffers from several limitations including expensive hardware and restricted observation depth.
 
 Compared to spectroscopy, imaging data is much easier and more economical to obtain on a large scale. The selection criteria for photometric surveys are much less demanding compared to complex targeting for spectroscopy, leading to better spatial coverage and covering full parameter space.
 
