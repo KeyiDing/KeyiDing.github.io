@@ -8,19 +8,7 @@ The Andromeda Galaxy, also known as M31, is a spiral galaxy in the Local Group. 
 
 The Subaru Telescope Prime Focus Spectrograph (PFS) Collaboration is planning to measure line-of-sight velocities and chemical abundances for a large-scale sample of M31 stars to study the structure and merger history of the galaxy. One issue for the study is to distinguish M31 member giant stars from foreground Milky Way dwarf stars before obtaining spectra as part of the survey. M31 giants and Milky Way dwarfs have the same colors but different intrinsic luminosities. The dwarfs are intrinsically faint and nearby while the giants are intrinsically bright and far away, and thus they have the same observed brightness and cannot be straightforwardly distinguished, especially for the coolest stars classified as M-stars.
 
-A potential solution to this problem is narrow-band photometry. A key physical parameter that differentiates dwarf stars and giant stars is surface gravity, as dwarfs have higher surface gravity than giants. The PFS Collaboration intends to use the photometry of a narrow band filter, NB515, as an indicator of the stars' surface gravity. NB515 is a narrow-band filter on the Subaru Telescope sensitive to the MgH + Mgb absorption features around 515 nm, the strength of which is strongly dependent on surface gravity. Historically targets are selected based within a polygon on the color-color diagram of g-i vs NB515-g colors, but the polygon does not extend to the regime of the M-stars (Komiyama et al. 2018). Such selection method might be biased and thus cannot construct a complete chemical profile of M31.
-
-<!-- <figure style="width:50%; text-align: center;">
-<img src='/images/hsc.png'>
-<figcaption>Image credit: Komiyama et al. 2018</figcaption>
-</figure> -->
-
-<p align="center" width="100%">
-    <img width="70%" src="/images/hsc.png"> 
-     <figcaption>
-          Image credit: Komiyama et al. 2018
-      </figcaption>
-</p>
+A potential solution to this problem is narrow-band photometry. A key physical parameter that differentiates dwarf stars and giant stars is surface gravity, as dwarfs have higher surface gravity than giants. The PFS Collaboration intends to use the photometry of a narrow band filter, NB515, as an indicator of the stars' surface gravity. NB515 is a narrow-band filter on the Subaru Telescope sensitive to the MgH + Mgb absorption features around 515 nm, the strength of which is strongly dependent on surface gravity. 
 
 I developed machine learning techniques to distinguish likely member stars of M31 - which are predominantly red giant stars - from foreground Milky Way contamination prior to fiber assignment and observation. Most fields to be targeted have been pre-imaged with Hyper Suprime Cam in both broad-band g and i filters and the gravity-sensitive narrow-band NB515 filter and our machine learning algorithm aims to find the separation between foreground dwarfs and target giants on the 2-color diagram.
 
