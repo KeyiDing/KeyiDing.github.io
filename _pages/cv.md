@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Graduate Degree (PhD track) in Astronomy, University of Maryland-College Park
+* Graduate Degree (PhD track) in Astronomy, University of Maryland-College Park, 2024-Present
 * B.S. in Physics and Computer Science, Johns Hopkins University, 2024
 * High School Diploma, The Experimental High School attched to Beijing Normal University, 2020
 
