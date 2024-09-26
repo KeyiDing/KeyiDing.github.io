@@ -10,9 +10,9 @@ author_profile: true
 
 Email
 ======
-* kding5 at jhu dot edu
+* kyding at umd dot edu
 
 
 Office
 ======
-* Office 500, Bloomberg Center for Physics and Astronomy, 3400 N. Charles Street, Baltimore, MD 21218
+* Office 1260 Physical Science Complex, 4296 Stadium Dr, College Park, MD 20742
